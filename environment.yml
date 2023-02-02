@@ -1,0 +1,10 @@
+name: nfl_third_down
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - jupyterlab
+  - pandas
