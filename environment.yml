@@ -3,8 +3,11 @@ channels:
   - defaults
 dependencies:
   - python=3.8
+  - pip
   - scikit-learn
   - seaborn
   - matplotlib
   - jupyterlab
   - pandas
+  - pip:
+    - nbstripout
