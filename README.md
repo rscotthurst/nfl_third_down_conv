@@ -1,2 +1,2 @@
-# nfl_third_down_conv
-A model to predict the likelihood of a third down conversion in NFL football.
+# NFL Third Down Conversion
+This repository contains my work to produce a model to predict the likelihood of a third down conversion in NFL football.
