@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exclude JetBrains idea folder
+/.idea
+
+# Exclude large dataset
+/data/play_by.csv
