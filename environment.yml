@@ -5,6 +5,7 @@ dependencies:
   - python=3.8
   - pip
   - scikit-learn
+  - statsmodels
   - seaborn
   - matplotlib
   - jupyterlab
