@@ -130,7 +130,11 @@ dmypy.json
 
 # Exclude JetBrains idea folder
 /.idea
+.DS_Store
 
 # Exclude data files
 *.csv
 *.parquet
+
+# Don't commit model artifacts
+model/
