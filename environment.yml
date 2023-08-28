@@ -1,14 +1,14 @@
 name: nfl_third_down
 channels:
   - defaults
+  - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.10
   - pip
   - scikit-learn
   - statsmodels
-  - seaborn
-  - matplotlib
   - jupyterlab
   - pandas
+  - flask
   - pip:
     - nbstripout
